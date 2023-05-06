@@ -1,6 +1,4 @@
 # TSP-Solver
-Travelling Salesman Problem Solver using GRASP and Swap Algorithm
-
 
 GRASP TSP Solver with Swap Algorithm
 
